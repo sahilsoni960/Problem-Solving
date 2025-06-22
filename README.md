@@ -36,7 +36,7 @@ Problem-Solving/
 ## ✨ Purpose & Goals
 
 - **Learning & Practice**: To provide a space for continuous learning and practice of data structures, algorithms, and problem-solving techniques.
-- **Interview Preparation**: To serve as a personal knowledge base.
+- **Knowledge Base**: To serve as a personal knowledge base.
 - **Code Quality**: To maintain a high standard of code quality, with clear, commented, and efficient solutions.
 
 ---
